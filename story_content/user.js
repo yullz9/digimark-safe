@@ -2,251 +2,254 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
-      case "5wdx9RAkymC":
+      case "69eizYvnXWE":
         Script1();
         break;
-      case "6CPtDWOUcFC":
+      case "6WHCI8TeJCe":
         Script2();
         break;
-      case "5ymFD6ednkC":
+      case "6mooZn6Clxc":
         Script3();
         break;
-      case "6gGdD1nFr7k":
+      case "5tshTvO9vMR":
         Script4();
         break;
-      case "6LRta7VGafY":
+      case "6p5b22Natrz":
         Script5();
         break;
-      case "6fy2HAAEvLz":
+      case "5XVDKUQhU8f":
         Script6();
         break;
-      case "6UtGHRlkUv2":
+      case "69UTCD6wcf4":
         Script7();
         break;
-      case "6DPSvCXWM9z":
+      case "6Zd4ZBgtH1l":
         Script8();
         break;
-      case "6nFVIFdrojn":
+      case "5bWTa3YB6YW":
         Script9();
         break;
-      case "6nEmG72Amme":
+      case "5pSVfVOEMZd":
         Script10();
         break;
-      case "61ThKetqU7V":
+      case "6gEic21Dnio":
         Script11();
         break;
-      case "5Y4Xsv8U1YB":
+      case "6FgHqOgwXbe":
         Script12();
         break;
-      case "6K5d2CxX7fp":
+      case "6mVcguy90ul":
         Script13();
         break;
-      case "5vxZThKd7Iq":
+      case "6IWgViNA2jn":
         Script14();
         break;
-      case "5w0AtmbLImr":
+      case "6Rvb4YCBEOw":
         Script15();
         break;
-      case "6cm8qKYUf1T":
+      case "6EtUosW0lfu":
         Script16();
         break;
-      case "6Ldi8tyS7Cn":
+      case "65O1uOQVXbW":
         Script17();
         break;
-      case "60xgeYtzwih":
+      case "6kKDUZvwQph":
         Script18();
         break;
-      case "6SJJmJgvDe1":
+      case "5heU5OGjRd6":
         Script19();
         break;
-      case "64gkcwznbD4":
+      case "5YN7mVcuYOW":
         Script20();
         break;
-      case "5zpnvvsRvyq":
+      case "6RVAYOA8aKo":
         Script21();
         break;
-      case "5lANdGHg59W":
+      case "6mFvj3Y6oqr":
         Script22();
         break;
-      case "6Bl4PyRCK5g":
+      case "5YMYff4N6NA":
         Script23();
         break;
-      case "5stFmYe00Jj":
+      case "6NzC2HWq2ub":
         Script24();
         break;
-      case "6mlhz8sAX8r":
+      case "5hy2cgcOVsh":
         Script25();
         break;
-      case "5q3fXbBxsgd":
+      case "60hOKtPJN9p":
         Script26();
         break;
-      case "5tBEUndznew":
+      case "6WTr9c4oBjB":
         Script27();
         break;
-      case "5wN8FbKOHKz":
+      case "65fj4aNzGOg":
         Script28();
         break;
-      case "6kLghV2GLIS":
+      case "6JIxjJZyLvJ":
         Script29();
         break;
-      case "5ir90FgCSG9":
+      case "6eWAffD3KzD":
         Script30();
         break;
-      case "6EesaKE2hwK":
+      case "68DF6aVibzf":
         Script31();
         break;
-      case "5fbK8qtTQjz":
+      case "6ktLtDWG7bO":
         Script32();
         break;
-      case "6Lsrq0eFFWZ":
+      case "5ok3mROE3Zc":
         Script33();
         break;
-      case "6SrGsBKugfT":
+      case "6bNtWChIpOM":
         Script34();
         break;
-      case "5n5jMAvg7Kq":
+      case "6WlkZx2VsZO":
         Script35();
         break;
-      case "5caKvTwC637":
+      case "6NJbX4Xoe2I":
         Script36();
         break;
-      case "5dbrxoaUUKw":
+      case "5oYSh6xAR2z":
         Script37();
         break;
-      case "6qwpUVUT5iM":
+      case "5eu9uZdN2PA":
         Script38();
         break;
-      case "6bsn6bCykx2":
+      case "6b1jEChpIoY":
         Script39();
         break;
-      case "6Pnlni1c9fr":
+      case "6BT53nNhu2F":
         Script40();
         break;
-      case "5mqz6IZryro":
+      case "5mGXFFxlXWX":
         Script41();
         break;
-      case "6hMLlnvBQNI":
+      case "6gKWKKIEeuz":
         Script42();
         break;
-      case "6TTU6ECRqd6":
+      case "6UAQbA6WReF":
         Script43();
         break;
-      case "6U16EalqwPr":
+      case "6Ie5sdoIzd3":
         Script44();
         break;
-      case "5dQNq044zQk":
+      case "5suPqua9eoW":
         Script45();
         break;
-      case "5YUYBFjGmKY":
+      case "6fSBDBxmoDM":
         Script46();
         break;
-      case "6LByshGBAB2":
+      case "5ueQuMeFrG5":
         Script47();
         break;
-      case "5xW9QsquxwV":
+      case "6MPJjkCIV2h":
         Script48();
         break;
-      case "6EClYom4Xr0":
+      case "6BDnF5Qrkcr":
         Script49();
         break;
-      case "5ltNP2HFRr1":
+      case "6mDXl2jTOui":
         Script50();
         break;
-      case "5fGigYulH0K":
+      case "5gAugUQDct9":
         Script51();
         break;
-      case "6cAvrMUDNm3":
+      case "6qQ1RbLBiyw":
         Script52();
         break;
-      case "5iwi6U7KsXX":
+      case "62Zg1m783hz":
         Script53();
         break;
-      case "6hcGB0POUVT":
+      case "5pji69lqDoV":
         Script54();
         break;
-      case "6A2ZI8SNCrf":
+      case "5p4TLP6LEjt":
         Script55();
         break;
-      case "5VlVaokl2kC":
+      case "6EgxMzoc1Uw":
         Script56();
         break;
-      case "6WOoUF6GJCR":
+      case "5tFNuVrHUti":
         Script57();
         break;
-      case "5c0OqCpFN1B":
+      case "5kxXNUkNU4R":
         Script58();
         break;
-      case "6f7fAJiNgtc":
+      case "6IxXJtxYFue":
         Script59();
         break;
-      case "6eJ5kvqSkYJ":
+      case "6LTnJWKrNKS":
         Script60();
         break;
-      case "6jeW24Fs0pt":
+      case "65aqEUtP3G2":
         Script61();
         break;
-      case "6CW6KtXTGK3":
+      case "6MsabQCRP2A":
         Script62();
         break;
-      case "6A048ol21fu":
+      case "5bVN88lNERw":
         Script63();
         break;
-      case "6973aXlQQRm":
+      case "6pA4enJZdis":
         Script64();
         break;
-      case "5rzU9AZI8pT":
+      case "5mPnJAWPTLb":
         Script65();
         break;
-      case "5o4VYFnxdHm":
+      case "6U2COg1FwQ0":
         Script66();
         break;
-      case "688IpMpGH8K":
+      case "6KRrzinw7Se":
         Script67();
         break;
-      case "6nXYWGfPmks":
+      case "6cNPIbl8h3T":
         Script68();
         break;
-      case "6MSPPGIhdjX":
+      case "5lfoG3STnVJ":
         Script69();
         break;
-      case "6C46OXohrch":
+      case "5ZpWEG870s2":
         Script70();
         break;
-      case "6dS2d8tHqf7":
+      case "6lmrjGmFeFj":
         Script71();
         break;
-      case "6HPdeIC0g3X":
+      case "5dRNmyk8g4r":
         Script72();
         break;
-      case "5tNpAx1EcYP":
+      case "6d1SyuHkA08":
         Script73();
         break;
-      case "6bSzS6jjomI":
+      case "5zvecLNnAjV":
         Script74();
         break;
-      case "6CyXxI0x0Pq":
+      case "6pbLXyoQ5PM":
         Script75();
         break;
-      case "6oUuLBtwZl2":
+      case "5zBt556y2oA":
         Script76();
         break;
-      case "5pKBWYDsgQV":
+      case "6IjJ7dUG15v":
         Script77();
         break;
-      case "6b6sRAhJv5v":
+      case "5wayW1bEQDs":
         Script78();
         break;
-      case "62rvz2bxmZC":
+      case "5Xy6pQU0klr":
         Script79();
         break;
-      case "62xKCCnNyz7":
+      case "5yChfFkmbpi":
         Script80();
         break;
-      case "6W7cHxLWUDv":
+      case "6G71pw5V8sq":
         Script81();
         break;
-      case "6bFlcselQ20":
+      case "6eAQQ1XwFrc":
         Script82();
+        break;
+      case "6nKjIWtnxJm":
+        Script83();
         break;
   }
 }
@@ -254,20 +257,38 @@ function ExecuteScript(strId)
 function Script1()
 {
   var player = GetPlayer();
-var volMusik = player.GetVar("VolumeMusik") / 10;
+var statusMati = player.GetVar("MusikMati");
 
-// Inisialisasi Musik Latar
+// 1. Inisialisasi Musik Latar (Hanya dibuat 1 kali selama gim berjalan)
 if (window.musikGame == undefined) {
     window.musikGame = new Audio("lagu_latar.mp3"); 
     window.musikGame.loop = true; 
-    window.musikGame.volume = volMusik; 
-    window.musikGame.play();
+    window.musikGame.volume = 0.5; // Volume 50% (bisa diubah antara 0.1 sampai 1.0)
+}
+
+// 2. Cek status variabel MusikMati saat slide dimulai
+if (statusMati == true) {
+    window.musikGame.pause();
 } else {
-    window.musikGame.volume = volMusik; 
+    window.musikGame.play();
 }
 }
 
 function Script2()
+{
+  var player = GetPlayer();
+var statusMati = player.GetVar("MusikMati");
+
+if (window.musikGame != undefined) {
+    if (statusMati == true) {
+        window.musikGame.pause();
+    } else {
+        window.musikGame.play();
+    }
+}
+}
+
+function Script3()
 {
   var elem = document.documentElement;
 
@@ -291,16 +312,6 @@ if (!document.fullscreenElement && !document.mozFullScreenElement && !document.w
     } else if (document.webkitExitFullscreen) {
         document.webkitExitFullscreen();
     }
-}
-}
-
-function Script3()
-{
-  var player = GetPlayer();
-var volMusik = player.GetVar("VolumeMusik") / 10;
-
-if (window.musikGame != undefined) {
-    window.musikGame.volume = volMusik; 
 }
 }
 
@@ -1917,6 +1928,33 @@ if (!document.fullscreenElement && !document.mozFullScreenElement && !document.w
 }
 
 function Script82()
+{
+  var elem = document.documentElement;
+
+if (!document.fullscreenElement && !document.mozFullScreenElement && !document.webkitFullscreenElement && !document.msFullscreenElement) {
+    if (elem.requestFullscreen) {
+        elem.requestFullscreen();
+    } else if (elem.msRequestFullscreen) {
+        elem.msRequestFullscreen();
+    } else if (elem.mozRequestFullScreen) {
+        elem.mozRequestFullScreen();
+    } else if (elem.webkitRequestFullscreen) {
+        elem.webkitRequestFullscreen(Element.ALLOW_KEYBOARD_INPUT);
+    }
+} else {
+    if (document.exitFullscreen) {
+        document.exitFullscreen();
+    } else if (document.msExitFullscreen) {
+        document.msExitFullscreen();
+    } else if (document.mozCancelFullScreen) {
+        document.mozCancelFullScreen();
+    } else if (document.webkitExitFullscreen) {
+        document.webkitExitFullscreen();
+    }
+}
+}
+
+function Script83()
 {
   var elem = document.documentElement;
 
